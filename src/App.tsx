@@ -15,7 +15,7 @@ const App: FC<IApps> = ({ title }) => {
     console.log(cssHotReload);
     console.log(h2Tag);
     return <div>
-        <h1 style={{ color: "green" }}>Hello from react {title}</h1>
+        <h1 style={{ color: "green" }}>Hellooo from react {title}</h1>
         <h2>yuh</h2>
         {/* {h2Tag} */}
     </div>;

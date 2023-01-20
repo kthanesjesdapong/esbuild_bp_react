@@ -24431,7 +24431,7 @@
     console.log(h2Tag);
     return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [
       /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("h1", { style: { color: "green" }, children: [
-        "Hello from react ",
+        "Hellooo from react ",
         title
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", { children: "yuh" })
